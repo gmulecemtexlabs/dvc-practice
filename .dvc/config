@@ -1,0 +1,8 @@
+['remote "origin"']
+    url = https://dagshub.com/gmule/hello-world2.dvc
+    auth = basic
+['remote "detection"']
+    url = https://dagshub.com/gmule/hello-world2.dvc
+    auth = basic
+    user = gmule
+    password = d89b28ac86eced8799d256599aabfc78b05b3cb7
